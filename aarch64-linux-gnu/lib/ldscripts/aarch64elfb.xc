@@ -7,7 +7,7 @@ OUTPUT_FORMAT("elf64-bigaarch64", "elf64-bigaarch64",
 	      "elf64-littleaarch64")
 OUTPUT_ARCH(aarch64)
 ENTRY(_start)
-SEARCH_DIR("=/home/rysix/Ryzen/tc-build/install/aarch64-linux-gnu/lib");
+SEARCH_DIR("=/home/kutemeikito0905/tc-build/install/aarch64-linux-gnu/lib");
 SECTIONS
 {
   /* Read-only sections, merged into text segment: */
