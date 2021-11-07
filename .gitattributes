@@ -1,7 +1,9 @@
-arm-linux-gnueabi filter=lfs diff=lfs merge=lfs -text
-bin filter=lfs diff=lfs merge=lfs -text
-lib filter=lfs diff=lfs merge=lfs -text
-share filter=lfs diff=lfs merge=lfs -text
-x86_64-pc-linux-gnu filter=lfs diff=lfs merge=lfs -text
-README.md filter=lfs diff=lfs merge=lfs -text
-aarch64-linux-gnu filter=lfs diff=lfs merge=lfs -text
+bin/clang-scan-deps filter=lfs diff=lfs merge=lfs -text
+bin/clang-14 filter=lfs diff=lfs merge=lfs -text
+bin/clang-14 filter=lfs diff=lfs merge=lfs -text
+bin/bugpoint filter=lfs diff=lfs merge=lfs -text
+bin/clang-repl filter=lfs diff=lfs merge=lfs -text
+bin/lld filter=lfs diff=lfs merge=lfs -text
+bin/llvm-lto2 filter=lfs diff=lfs merge=lfs -text
+bin/opt filter=lfs diff=lfs merge=lfs -text
+lib/libclang-cpp.so.14 filter=lfs diff=lfs merge=lfs -text
