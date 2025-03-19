@@ -1,1 +1,1 @@
-https://git@github.com:kutemeikito/RastaMod69-Clang/releases/download/RastaMod69-Clang-20.0.0-release/RastaMod69-Clang-20.0.0.tar.gz
+https://git@github.com:kutemeikito/RastaMod69-Clang/releases/download/RastaMod69-Clang-21.0.0-release/RastaMod69-Clang-21.0.0.tar.gz
